@@ -1,4 +1,4 @@
-# order-platform-service
+# REL-101 Release candidate readiness fixes
 
 
 Linked Jira: REL-101
